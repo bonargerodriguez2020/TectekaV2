@@ -3,8 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+        <h1>TECTEKA GROUP</h1>
+        <p class="lead text-justify">TECTEKA es un Portal móvil/web en la cual los negocios de electrónica pueden registrar sus datos y ofrecer sus servicios (revisión, reparación, venta de pieza, etc.). Con el registro del comercio se facilitará a los usuarios que tengan un equipo electrónico antiguo o fuera de garantía, con alguna dificultad o defecto en su funcionamiento, realizar una búsqueda global (territorio nacional) por región o por GPS de los comercios electrónicos cercanos a su lugar de residencia y así no perder tiempo visitando lugares para encontrar un comercio que pueda resolver el problema de su equipo. </p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
